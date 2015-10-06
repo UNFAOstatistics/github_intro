@@ -1,0 +1,54 @@
+---
+title: "Boost your R-workflow with Git and GitHub"
+author: "Several geeks from ESS"
+date: "October 6, 2015"
+output: ioslides_presentation
+---
+
+## Your experience
+
+Do you use Tracking of changes in Microsoft Word or Revision history in Google Drive?
+
+![Example of MS Word tracking of changes. http://www.macworld.com/article/1143163/trackchanges.html](plots/word_tracking.jpg)
+
+## Why version control for R users?
+
+* Track of your work
+* Separate branch for every standalone task (fix or improvement)
+* Collaboration
+
+## Git
+
+_noun_ [ˈgit]
+
+_British Slang_. A stupid or worthless person (especially a man)
+
+~[Merriam-Webster, Incorporated](http://www.merriam-webster.com/dictionary/git)~
+
+## Git software
+
+Developer: Linus Torvalds (creator of Linux kernel) 
+
+Target: Linux kernel
+
+Aims: 
+
+* to control files' revisions (12,020,528 lines spread over 36,595 unique files); 
+* to support collaboration (12,000 programmers);
+* with stress on branches and resolution of conflicts.
+
+Type: Free open source software
+
+## GitHub
+
+* "Web-addon" for git
+
+* Commercial webservice with free public accounts
+
+* "Social network" for coders
+
+* User-friendly interface
+
+* Easy for newbies
+
+* Popular among R-developers

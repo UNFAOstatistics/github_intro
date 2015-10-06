@@ -13,6 +13,3 @@
 vignettes/*.html
 vignettes/*.pdf
 .Rproj.user
-
-#gh-pages ignore 
-*.Rmd
