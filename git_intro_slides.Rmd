@@ -36,3 +36,9 @@ Aims:
 * to control files' revisions (12,020,528 lines spread over 36,595 unique files); 
 * to support collaboration (12,000 programmers);
 * with stress on branches and resolution of conflicts.
+
+Type: Free open source software
+
+## GitHub
+
+Webservice 
