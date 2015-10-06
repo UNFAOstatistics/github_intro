@@ -77,6 +77,9 @@ Type: Free open source software
 * This is not easy in RStudio directly, so you'll have to command line.
 * `git clone https://github.com/octocat/Spoon-Knife.git`
 
+![git clone](plots/Bash-git-clone.png)
+
+
 ## Git add
 
 * When files are changed, they must be added to the staging area
@@ -89,4 +92,5 @@ Type: Free open source software
 
 ## Git push
 
-* Code ready for the public?
+* Code ready for the public? Time to push
+* 
