@@ -27,7 +27,7 @@ _British Slang_. A stupid or worthless person (especially a man)
 
 ## Git software
 
-Developer: Linus Torvalds (creator of Linux kernel) 
+Developer: Linus Torvalds (a Finnish gentleman and creator of Linux kernel) 
 
 Target: Linux kernel
 
