@@ -93,4 +93,14 @@ Type: Free open source software
 ## Git push
 
 * Code ready for the public? Time to push
-* 
+
+## Git pull
+
+* Other people made changes? git pull.
+
+##Advanced topics
+* Branching
+* Rebasing
+* Cherry-picking
+* Submodules
+
