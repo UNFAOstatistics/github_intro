@@ -52,3 +52,11 @@ Type: Free open source software
 * Easy for newbies
 
 * Popular among R-developers
+
+## In Word era people forgot about plain text format
+
+* Software independent
+* Light (just copy & paste in Slack, email or IM)
+* Friendly
+    * Human
+    * Machine
