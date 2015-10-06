@@ -41,4 +41,14 @@ Type: Free open source software
 
 ## GitHub
 
-Webservice 
+* "Web-addon" for git
+
+* Commercial webservice with free public accounts
+
+* "Social network" for coders
+
+* User-friendly interface
+
+* Easy for newbies
+
+* Popular among R-developers
