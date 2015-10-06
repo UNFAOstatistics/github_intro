@@ -12,3 +12,7 @@ Do you use Tracking of changes in Microsoft Word or Revision history in Google D
 ![Example of MS Word tracking of changes. http://www.macworld.com/article/1143163/trackchanges.html](plots/word_tracking.jpg)
 
 ## Why version control for R users?
+
+* Track of your work
+* Separate branch for every standalone task (fix or improvement)
+* Collaboration
