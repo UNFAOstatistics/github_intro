@@ -46,6 +46,10 @@ Aims:
 Type: Free open source software
 
 ## GitHub
+<div class="centered">
+![logo](plots/GitHub-Mark-120px-plus.png)
+</div>
+
 
 * "Web-addon" for git
 
@@ -66,3 +70,23 @@ Type: Free open source software
 * Friendly
     * Human
     * Machine
+
+## Git clone
+
+* In order to make a copy of an existing repo, you must clone it.
+* This is not easy in RStudio directly, so you'll have to command line.
+* `git clone https://github.com/octocat/Spoon-Knife.git`
+
+## Git add
+
+* When files are changed, they must be added to the staging area
+  * This is an area to collect your files before committing
+
+## Git commit
+
+* Committing is like taking a snapshot. You can always go back to an old commit.
+* Commits should be accompanied by an informative message
+
+## Git push
+
+* Code ready for the public?
