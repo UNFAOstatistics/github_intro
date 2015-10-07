@@ -1,7 +1,7 @@
 ---
 title: "Boost your R-workflow with Git and GitHub"
 author: "Several geeks from ESS"
-date: "October 6, 2015"
+date: "October 7, 2015. R users group of ESS"
 output: ioslides_presentation
 ---
 
