@@ -95,9 +95,15 @@ Type: Free open source software
 * Committing is like taking a snapshot. You can always go back to an old commit.
 * Commits should be accompanied by an informative message
 
+![git commit](plots/Bash-git-commit.png)
+
+![rs git commit](plots/RStudio-git-commit.png)
+
 ## Git push
 
 * Code ready for the public? Time to push
+
+![rs git push](plots/RStudio-git-push.png)
 
 ## Git pull
 
