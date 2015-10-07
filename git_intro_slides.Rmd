@@ -84,6 +84,11 @@ Type: Free open source software
 
 * When files are changed, they must be added to the staging area
   * This is an area to collect your files before committing
+  
+![git add](plots/Bash-git-add.png)
+
+![rs git add](plots/RStudio-git-add.png)
+
 
 ## Git commit
 
