@@ -55,9 +55,23 @@ _British Slang_. A stupid or worthless person (especially a man)
 
 ## Git way of revision history
 
+* Focus on files in simple text format
 * All records in history are intentional (What + Why)
-* Everybody have full history and all versions/branches locally
-* You can work in airplane
+* You can work in airplane (`.git` subfolder)
+* Work with branches easily
+
+## In Word era we forgot about simple text
+
+* Software independent
+* Light (just copy & paste in Slack, email or IM)
+* Friendly for human and machine
+* Applications of simple text format:
+    * Programming
+    * Statistical analysis and data visualization
+    * Documents and books (LaTeX, Markdown)
+    * Flow charts (e.g. DiagrammeR R-package)
+    * System settings (GNU/Linux)
+    * Project management (Taskjuggler)
 
 ## GitHub
 <div class="centered">
@@ -66,24 +80,11 @@ _British Slang_. A stupid or worthless person (especially a man)
 
 
 * "Web-addon" for git
-
 * Commercial webservice with free public accounts
-
 * "Social network" for coders
-
 * User-friendly interface
-
 * Easy for newbies
-
 * Popular among R-developers
-
-## In Word era people forgot about plain text format
-
-* Software independent
-* Light (just copy & paste in Slack, email or IM)
-* Friendly
-    * Human
-    * Machine
 
 ## Git clone
 
