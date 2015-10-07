@@ -1,11 +1,15 @@
 ---
 title: "Boost your R-workflow with Git and GitHub"
 author: "Several geeks from ESS"
-date: "October 6, 2015"
+date: "October 7, 2015. R users group of ESS"
 output: ioslides_presentation
 ---
 
-## Your experience
+## Those who cannot remember the past are condemned to repeat it
+
+_George Santayana_
+
+## Your experience: tracking of changes
 
 Do you use Tracking of changes in Microsoft Word or Revision history in Google Drive?
 
@@ -15,7 +19,13 @@ Do you use Tracking of changes in Microsoft Word or Revision history in Google D
 
 * Automatic
 * What, but not why
-* Distributed
+* Distributed (no central server is required)
+
+## Your experience: collaboration
+
+* Copies of files by email
+* Shared drive (T:, Dropbox)
+* Google Documents; MS Office 365
 
 ## Why version control for R users?
 
@@ -23,13 +33,8 @@ Do you use Tracking of changes in Microsoft Word or Revision history in Google D
 * Separate branch for every standalone task (fix or improvement)
 * Collaboration
 
-## Git
+There are many programms for version control (e.g. Subversion), but we vote for __Git__!
 
-_noun_ [ˈgit]
-
-_British Slang_. A stupid or worthless person (especially a man)
-
-~[Merriam-Webster, Incorporated](http://www.merriam-webster.com/dictionary/git)~
 
 ## Git software
 
@@ -41,9 +46,36 @@ Aims:
 
 * to control files' revisions (12,020,528 lines spread over 36,595 unique files); 
 * to support collaboration (12,000 programmers);
-* with stress on branches and resolution of conflicts.
+* with stress on easiness of work with branches and
+* absence of central server (_distributed_ version control system).
 
 Type: Free open source software
+
+## Git
+
+_noun_ [ˈgit]
+
+_British Slang_. A stupid or worthless person (especially a man)
+
+## Git way of revision history
+
+* Focus on files in simple text format
+* All records in history are intentional (What + Why)
+* You can work in airplane (`.git` subfolder)
+* Work with branches easily
+
+## In Word era we forgot about simple text
+
+* Software independent
+* Light (just copy & paste in Slack, email or IM)
+* Friendly for human and machine
+* Applications of simple text format:
+    * Programming
+    * Statistical analysis and data visualization
+    * Documents and books (LaTeX, Markdown)
+    * Flow charts (e.g. DiagrammeR R-package)
+    * System settings (GNU/Linux)
+    * Project management (Taskjuggler)
 
 ## GitHub
 <div class="centered">
@@ -52,24 +84,11 @@ Type: Free open source software
 
 
 * "Web-addon" for git
-
 * Commercial webservice with free public accounts
-
 * "Social network" for coders
-
 * User-friendly interface
-
 * Easy for newbies
-
 * Popular among R-developers
-
-## In Word era people forgot about plain text format
-
-* Software independent
-* Light (just copy & paste in Slack, email or IM)
-* Friendly
-    * Human
-    * Machine
 
 ## Git clone
 
