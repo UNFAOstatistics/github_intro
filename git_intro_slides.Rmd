@@ -38,13 +38,13 @@ There are many programs for version control (e.g. Subversion), but we vote for _
 
 ## Git software
 
-Developer: Linus Torvalds (a Finnish gentleman and creator of Linux kernel) 
+Developer: Linus Torvalds (an intelligent Finnish gentleman and creator of Linux kernel) 
 
 Target: Linux kernel
 
-Aims: 
+Aims:
 
-* to control files' revisions (12,020,528 lines spread over 36,595 unique files); 
+* to control files' revisions (12,020,528 lines spread over 36,595 unique files);
 * to support collaboration (12,000 programmers);
 * with stress on easiness of work with branches and
 * absence of central server (_distributed_ version control system).
@@ -103,7 +103,7 @@ _British Slang_. A stupid or worthless person (especially a man)
 
 * When files are changed, they must be added to the staging area
   * This is an area to collect your files before committing
-  
+
 ![git add](plots/Bash-git-add.png)
 
 ![rs git add](plots/RStudio-git-add.png)
@@ -133,4 +133,3 @@ _British Slang_. A stupid or worthless person (especially a man)
 * Rebasing
 * Cherry-picking
 * Submodules
-
