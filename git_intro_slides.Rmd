@@ -53,6 +53,11 @@ _noun_ [ˈgit]
 
 _British Slang_. A stupid or worthless person (especially a man)
 
+## Git way of revision history
+
+* All records in history are intentional (What + Why)
+* Everybody have full history and all versions/branches locally
+* You can work in airplane
 
 ## GitHub
 <div class="centered">
