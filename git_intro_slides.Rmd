@@ -5,6 +5,10 @@ date: "October 7, 2015. R users group of ESS"
 output: ioslides_presentation
 ---
 
+## Those who cannot remember the past are condemned to repeat it
+
+_George Santayana_
+
 ## Your experience: tracking of changes
 
 Do you use Tracking of changes in Microsoft Word or Revision history in Google Drive?
