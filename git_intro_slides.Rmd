@@ -29,13 +29,14 @@ Do you use Tracking of changes in Microsoft Word or Revision history in Google D
 * Separate branch for every standalone task (fix or improvement)
 * Collaboration
 
+There are many programms for version control (e.g. Subversion), but we vote for __Git__!
+
 ## Git
 
 _noun_ [ˈgit]
 
 _British Slang_. A stupid or worthless person (especially a man)
 
-~[Merriam-Webster, Incorporated](http://www.merriam-webster.com/dictionary/git)~
 
 ## Git software
 
@@ -47,7 +48,8 @@ Aims:
 
 * to control files' revisions (12,020,528 lines spread over 36,595 unique files); 
 * to support collaboration (12,000 programmers);
-* with stress on branches and resolution of conflicts.
+* with stress on easiness of work with branches and
+* absence of central server (_distributed_ version control system).
 
 Type: Free open source software
 
