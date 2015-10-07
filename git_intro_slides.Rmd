@@ -33,7 +33,7 @@ Do you use Tracking of changes in Microsoft Word or Revision history in Google D
 * Separate branch for every standalone task (fix or improvement)
 * Collaboration
 
-There are many programms for version control (e.g. Subversion), but we vote for __Git__!
+There are many programs for version control (e.g. Subversion), but we vote for __Git__!
 
 
 ## Git software
